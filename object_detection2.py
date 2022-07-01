@@ -5,8 +5,8 @@ import numpy as np
 
 @dataclass
 class ObjectDetection:
-    weights_path: str = "dnn_model/yolov4-tiny.weights"
-    cfg_path: str = "dnn_model/yolov4-tiny.cfg"
+    weights_path: str = "dnn_model/yolov4-tiny.weights" #https://github.com/AlexeyAB/darknet/releases
+    cfg_path: str = "dnn_model/yolov4-tiny.cfg" #https://github.com/AlexeyAB/darknet/tree/master/cfg
     classes_file = r"dnn_model/classes.txt"
     nms_threshold: int = .3
     conf_threshold: int = .3
