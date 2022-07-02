@@ -2,9 +2,9 @@ from time import time
 import cv2
 import numpy as np
 
-from AdfansedKonkuterWision.CustomwyModelAutPysource.object_detection2 import ObjectDetection
-from AdfansedKonkuterWision.CustomwyModelAutPysource.tracker import Tracker
-from AdfansedKonkuterWision.CustomwyModelAutPysource.kalmanfilter import KalmanFilter
+from object_detection2 import ObjectDetection
+from tracker import Tracker
+from kalmanfilter import KalmanFilter
 
 
 kf = KalmanFilter()
