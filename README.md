@@ -4,5 +4,7 @@
 
 
 
-https://user-images.githubusercontent.com/73878161/176991443-75b418f7-e43f-4c1f-9b03-16b25a4f345d.mp4
 
+
+
+![Res_1](https://user-images.githubusercontent.com/73878161/177055060-38a3c40d-77e0-4481-a947-74b508ec95bf.gif)
